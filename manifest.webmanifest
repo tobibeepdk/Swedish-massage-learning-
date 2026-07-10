@@ -1,0 +1,12 @@
+{
+  "name": "Swedish Massage Picture Trainer",
+  "short_name": "Massage Trainer",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f3ee",
+  "theme_color": "#6d4c41",
+  "description": "Offline picture-based Swedish massage learning game in English, Bisaya and Tagalog.",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
